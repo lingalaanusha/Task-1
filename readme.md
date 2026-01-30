@@ -145,3 +145,7 @@ python data_cleaning.py
 * Feature engineering for business insights
 
 ---
+
+## Output
+
+https://github.com/user-attachments/assets/d3c2d254-1de4-4c96-b49d-7943d8afcc1e
