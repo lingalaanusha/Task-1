@@ -1,0 +1,22 @@
+Column Name,Data Type,Non-Null Count,Business Description
+Row ID,int64,9994,To be documented
+Order ID,object,9994,To be documented
+Order Date,object,9994,To be documented
+Ship Date,object,9994,To be documented
+Ship Mode,object,9994,To be documented
+Customer ID,object,9994,To be documented
+Customer Name,object,9994,To be documented
+Segment,object,9994,To be documented
+Country,object,9994,To be documented
+City,object,9994,To be documented
+State,object,9994,To be documented
+Postal Code,int64,9994,To be documented
+Region,object,9994,To be documented
+Product ID,object,9994,To be documented
+Category,object,9994,To be documented
+Sub-Category,object,9994,To be documented
+Product Name,object,9994,To be documented
+Sales,float64,9994,To be documented
+Quantity,int64,9994,To be documented
+Discount,float64,9994,To be documented
+Profit,float64,9994,To be documented
